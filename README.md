@@ -1,4 +1,4 @@
-# Geoportail-Casablanca
+# Geoportal-Casablanca
 The Geoportail is a public Web portal providing access to research and visualization services for geographic or geolocated data. Its main purpose is to publish the geographic reference data for the entire territory of Casablanca.
 
 The Geoportal will give the user the possibility of filtering searches by date and by topic.
